@@ -6,31 +6,31 @@ Voard (Void Board). Is an Open source project that enables you to basically draw
 
 ### Frontend
 
-* [React](https://reactjs.org)
-* [Vite](https://vitejs.dev)
-* [p5.js](https://p5js.org)
+- [React](https://reactjs.org)
+- [Vite](https://vitejs.dev)
+- [p5.js](https://p5js.org)
 
 ### Backend
 
-* [NodeJs](https://nodejs.org)
-* [ExpressJs](https://expressjs.com/)
-* [PostgreSQL](https://postgresql.org)
-* [Docker](https://docker.com)
-* [node-postgres](https://node-postgres.com)
+- [NodeJs](https://nodejs.org)
+- [ExpressJs](https://expressjs.com/)
+- [PostgreSQL](https://postgresql.org)
+- [Docker](https://docker.com)
+- [node-postgres](https://node-postgres.com)
 
 ## Contributing
 
-* Contributions make the open source community such an amazing place to learn, inspire, and create.
-* Any contributions you make are greatly appreciated.
-* Check out our [contribution guidelines](/CONTRIBUTING.md) for more information.
+- Contributions make the open source community such an amazing place to learn, inspire, and create.
+- Any contributions you make are greatly appreciated.
+- Check out our [contribution guidelines](/CONTRIBUTING.md) for more information.
 
 ### Prerequisites
 
 Please ensure to have the following installed on your local machine
 
-* [Git](https://git-scm.com/downloads)
-* [NodeJs](https://nodejs.org/en/download/)
-* [Docker](https://docker.com/desktop)
+- [Git](https://git-scm.com/downloads)
+- [NodeJs](https://nodejs.org/en/download/)
+- [Docker](https://docker.com/desktop)
 
 ### Setting up for local development
 
@@ -38,9 +38,9 @@ Please ensure to have the following installed on your local machine
 2. Clone the forked repository to your local machine. ([Tutorial Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository))
 3. Open the cloned repository on your local machine using your favourite code editor
 4. Install all dependencies with your favourite package manager  
-Eg: `npm install` or `yarn install`
-5. Run the `dev` script with your favourite package manager
-Eg: `npm run dev` or `yarn dev`
+   Eg: `npm install` or `yarn install`
+5. Run the `dev` script with your favourite package manager  
+   Eg: `npm run dev` or `yarn dev`
 
 ## Contributors
 
