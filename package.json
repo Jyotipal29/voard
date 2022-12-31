@@ -1,0 +1,15 @@
+{
+  "name": "voard",
+  "private": true,
+  "author": {
+    "name": "Mathias Ayivor"
+  },
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=client",
+    "build": "npm run build --workspace=client"
+  }
+}
